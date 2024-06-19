@@ -1,10 +1,12 @@
 ## Boas vindas ao meu perfil 🍒
 
-Meu nome é Emilly Pereira 
+Meu nome é Emilly Vitória Pereira 
+mais pode me chama de miih 🌷
 
-- Estou estudando na Alura;
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+  🌱 Estou estudando na Alura;
+  🌱 Estou me desenvolvendo na linguagem JavaScript;
+  🌱 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos;
+  👩🏽‍🎓 Estudante da escola EE Rosa Maria Madeira Marques Freire;
 
   ### você pode entrar em contato comigo 📫
 
