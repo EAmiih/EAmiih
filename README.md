@@ -1,18 +1,19 @@
-## Boas vindas ao meu perfil 🍒
+# Boas-vindas ao meu perfil 🍒
 
-Meu nome é Emilly Vitória Pereira 
-mais pode me chama de miih 🌷
+Olá! Meu nome é **Emilly Vitória Pereira**, mas pode me chamar de **Milly** 🌷.
 
-  🌱 Estou estudando na Alura;
-  🌱 Estou me desenvolvendo na linguagem JavaScript;
-  🌱 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos;
-  👩🏽‍🎓 Estudante da escola EE Rosa Maria Madeira Marques Freire;
+## Sobre Mim
 
-  ### você pode entrar em contato comigo 📫
+- 🌱 **Estudante na Alura:** Atualmente, estou focada em aprimorar minhas habilidades em JavaScript.
+- 🌿 **Projetos:** Utilizo este espaço para organizar e compartilhar os projetos que estou desenvolvendo.
+- 👩‍🎓 **Educação:** Estudante da escola EE Rosa Maria Madeira Marques Freire.
 
-  vitoriaemillypereira0@gmail.com
+## Contato 📫
 
-  @ea_pereirah
+- **Email:** [vitoriaemillypereira0@gmail.com](mailto:vitoriaemillypereira0@gmail.com)
+- **Instagram:** [@ea_pereirah](https://Instagram.com/ea_pereirah)
 
-  ![](https://media1.tenor.com/m/PJ0ly6Om62sAAAAC/flower-gentleman.gif)
+---
+
+  ![](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
   
